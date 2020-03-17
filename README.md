@@ -49,9 +49,9 @@ Following table explains the variables in the dataset:
 19. Avg Run Time : Average Run Time (Average of the 4 runs)
 
 ## Technologies and Methods
-- Python
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
 - Microsoft Excel
-- SVM (Linear, RBF and Polynomial kernel), Decision Tree, XGBoost
+- SVM (Linear, RBF and Polynomial kernel), Decision Tree, XGBoost, K-Fold Cross-validation
 
 ## Status
 Project is: *finsished*
