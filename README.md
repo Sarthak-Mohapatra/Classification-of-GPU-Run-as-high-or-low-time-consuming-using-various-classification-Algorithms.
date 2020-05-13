@@ -1,4 +1,4 @@
-# Classification of GPU Run as high or low time-consuming using various classification Algorithms.
+# Classification of GPU Run Process as high or low time-consuming using various classification Algorithms.
 In this project, we will learn and implement SVM, Decision Trees and XGBoost Algorithms method. The purpose of this project is to 
 compare different classification algorithms and test its capabilities for classifying records in a dataset. The dataset contains 
 information about GPU kernel performance on matrix multiplication (A * B = C) where, A, B and C are metrices. 
@@ -14,6 +14,7 @@ each dataset was finalized.
 - General Info
 - Variable Description
 - Technologies and Methods
+- Project Report
 - Status
 - Contact
 
@@ -52,6 +53,9 @@ Following table explains the variables in the dataset:
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
 - Microsoft Excel
 - SVM (Linear, RBF and Polynomial kernel), Decision Tree, XGBoost, K-Fold Cross-validation
+
+## Project Report
+The project report is uploaded to the Git-Hub site and can be referenced here: [Project Report](https://github.com/Sarthak-Mohapatra/Classification-of-GPU-Run-as-high-or-low-time-consuming-using-various-classification-Algorithms./blob/master/GPU%20Run%20Time%20classification%20-%20Report.pdf)
 
 ## Status
 Project is: *finsished*
